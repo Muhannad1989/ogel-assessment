@@ -115,4 +115,4 @@ app.listen(port, () => {
 // or //
 
 // you can use them at the front end with out writhing 'http://localhost:5000/' ('it's already done with the settings')
-// Example:  fetch('/production/temperature') or axios.get('/production/temperature')
+// Example:  fetch('/production/temperature')  &  using axios: axios.get('/production/temperature')
